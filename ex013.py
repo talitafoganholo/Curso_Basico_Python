@@ -1,3 +1,5 @@
+#Exercício 13 - Reajuste Salarial
+
 salário = float(input('Qual é o salário do Funcionário? R$'))
 #novo = salário + (salário * 15 / 100) ou
 novo = salário * 1.15
